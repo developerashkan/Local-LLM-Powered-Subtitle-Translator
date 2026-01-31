@@ -1,6 +1,6 @@
 # 🎬 Local-LLM-Powered-Subtitle-Translator – SRT Translator
 
-**SubLingo** is a robust, local LLM-powered tool designed to translate subtitle files (`.srt`) while maintaining strict formatting. By leveraging **Ollama**, it ensures your data stays private, secure, and runs entirely on your local machine.
+**Local-LLM-Powered-Subtitle-Translator** is a robust, local LLM-powered tool designed to translate subtitle files (`.srt`) while maintaining strict formatting. By leveraging **Ollama**, it ensures your data stays private, secure, and runs entirely on your local machine.
 
 ---
 
@@ -32,8 +32,8 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/developerashkan/Local-LLM-Powered-Subtitle-Translator.git](https://github.com/yourusername/sublingo.git)
-   cd sublingo
+   git clone [https://github.com/developerashkan/Local-LLM-Powered-Subtitle-Translator.git]
+   cd Local-LLM-Powered-Subtitle-Translator
    ```
 ## How to Use:
 Launch Ollama: Ensure the Ollama server is running in the background.
@@ -53,7 +53,7 @@ Download: Once the progress bar hits 100%, the ⬇️ Download Translated SRT bu
 
 ## Technical Details
 The Translation Prompt
-SubLingo uses a specialized "Professional Translator" prompt to ensure the LLM doesn't hallucinate or add conversational filler:
+Local-LLM-Powered-Subtitle-Translator uses a specialized "Professional Translator" prompt to ensure the LLM doesn't hallucinate or add conversational filler:
 
 "Output ONLY the translated text. Preserve line breaks. Keep it natural and subtitle-friendly."
 
