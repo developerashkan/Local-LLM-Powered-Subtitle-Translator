@@ -2,7 +2,7 @@
 
 **Sublingo** is a robust, local LLM-powered tool designed to translate subtitle files (`.srt`) while maintaining strict formatting. By leveraging **Ollama**, it ensures your data stays private, secure, and runs entirely on your local machine.
 
----
+<img width="1881" height="733" alt="Image" src="https://github.com/user-attachments/assets/c1a9769a-1d52-4d02-8aa4-c096655688ab" />
 
 ## Key Features
 
