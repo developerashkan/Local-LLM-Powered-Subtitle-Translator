@@ -1,4 +1,4 @@
-# 🎬 SubLingo – SRT Translator
+# 🎬 Local-LLM-Powered-Subtitle-Translator – SRT Translator
 
 **SubLingo** is a robust, local LLM-powered tool designed to translate subtitle files (`.srt`) while maintaining strict formatting. By leveraging **Ollama**, it ensures your data stays private, secure, and runs entirely on your local machine.
 
@@ -32,7 +32,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/sublingo.git](https://github.com/yourusername/sublingo.git)
+   git clone [https://github.com/developerashkan/Local-LLM-Powered-Subtitle-Translator.git](https://github.com/yourusername/sublingo.git)
    cd sublingo
    ```
 ## How to Use:
